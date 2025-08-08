@@ -1,9 +1,0 @@
-{
-    "name": "bymumi10'in Kişisel Reposu",
-    "description": "Yerel olarak birleştirilmiş, seçilmiş kaynaklardan oluşan kişisel depo.",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/bymumi10/mumirepo/refs/heads/main/plugins.json"
-    ]
-
-}
