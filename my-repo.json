@@ -1,8 +1,8 @@
 {
-    "name": "bymumi10'in Özel Reposu",
-    "description": "Farklı kaynaklardan derlenmiş kişisel CloudStream deposu.",
+    "name": "bymumi10'in Kişisel Reposu",
+    "description": "Yerel olarak birleştirilmiş, seçilmiş kaynaklardan oluşan kişisel depo.",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/bymumi10/mumirepo/refs/heads/main/plugins.json"
+        "https://raw.githubusercontent.com/bymumi10/mumirepo/main/builds/plugins.json"
     ]
 }
