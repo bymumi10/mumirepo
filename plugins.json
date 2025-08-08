@@ -1,9 +1,6 @@
 [
     {
-    "timestamp": "2025-08-08T16:28:42.242344Z",
-    "plugins": [
-        {
-            "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png",
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png",
             "apiVersion": 1,
             "repositoryUrl": "https://github.com/GitLatte/Sinetech",
             "fileSize": 19020,
@@ -8957,8 +8954,5 @@
             "isUpdated": false,
             "repoUpdated": {
                 "makoto2": false
-            }
-        }
-    ]
-}
+    }
 ]
