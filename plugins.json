@@ -19,27 +19,28 @@
         "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TO Grup T\u00fcrkiye (VPN) - Latte.cs3",
         "name": "TO Grup T\u00fcrkiye (VPN) - Latte"
     },
-    
+
     {
-        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/DaddyLive/live-streaming.png",
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/daddylive-events.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 28714,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 22670,
         "status": 1,
+        "language": "tr",
         "authors": [
-            "doGior"
+            "GitLatte",
+            "patr0nq"
         ],
         "tvTypes": [
             "Live"
         ],
-        "version": 10,
-        "internalName": "DaddyLive",
-        "description": "Live TV from DaddyLive. You might need a VPN",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/DaddyLive.cs3",
-        "name": "DaddyLive"
+        "version": 3,
+        "internalName": "DaddyLive Events (A\u00e7\u0131k) - Latte",
+        "description": "DaddyLive Events i\u00e7erik\u015ferini ve m\u00fcmk\u00fcn oldu\u011funca VPN olmadan izletmek i\u00e7in \ud83d\udcaa\ud83c\udffb\ud83d\udca5",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DaddyLive Events (A\u00e7\u0131k) - Latte.cs3",
+        "name": "DaddyLive Events (A\u00e7\u0131k) - Latte"
     },
-
-
+    
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=colorhunt.co&sz=%size%",
         "apiVersion": 1,
