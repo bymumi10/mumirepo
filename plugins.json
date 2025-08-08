@@ -1,0 +1,1784 @@
+[
+    {
+        "name": "AltaDefinizione",
+        "internalName": "AltaDefinizione",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AltaDefinizione.cs3",
+        "description": "AltaDefinizione eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "AnimeUnity",
+        "internalName": "AnimeUnity",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeUnity.cs3",
+        "description": "AnimeUnity eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "AnimeWorld",
+        "internalName": "AnimeWorld",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeWorld.cs3",
+        "description": "AnimeWorld eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Arte",
+        "internalName": "Arte",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Arte.cs3",
+        "description": "Arte eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CB01",
+        "internalName": "CB01",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/CB01.cs3",
+        "description": "CB01 eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CalcioStreaming",
+        "internalName": "CalcioStreaming",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/CalcioStreaming.cs3",
+        "description": "CalcioStreaming eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CorsaroNero",
+        "internalName": "CorsaroNero",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/CorsaroNero.cs3",
+        "description": "CorsaroNero eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DaddyLive",
+        "internalName": "DaddyLive",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/DaddyLive.cs3",
+        "description": "DaddyLive eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Huhu",
+        "internalName": "Huhu",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Huhu.cs3",
+        "description": "Huhu eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "OnlineSerieTV",
+        "internalName": "OnlineSerieTV",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/OnlineSerieTV.cs3",
+        "description": "OnlineSerieTV eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "StreamingCommunity",
+        "internalName": "StreamingCommunity",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
+        "description": "StreamingCommunity eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TV",
+        "internalName": "TV",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/TV.cs3",
+        "description": "TV eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "ToonItalia",
+        "internalName": "ToonItalia",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/ToonItalia.cs3",
+        "description": "ToonItalia eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Torrentio",
+        "internalName": "Torrentio",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Torrentio.cs3",
+        "description": "Torrentio eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "YouTube",
+        "internalName": "YouTube",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
+        "description": "YouTube eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "4KFilmIzlesene",
+        "internalName": "4KFilmIzlesene",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/4KFilmIzlesene.cs3",
+        "description": "4KFilmIzlesene eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "AnimeIzlesene",
+        "internalName": "AnimeIzlesene",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/AnimeIzlesene.cs3",
+        "description": "AnimeIzlesene eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "AnimeciX",
+        "internalName": "AnimeciX",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/AnimeciX.cs3",
+        "description": "AnimeciX eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Animeler",
+        "internalName": "Animeler",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Animeler.cs3",
+        "description": "Animeler eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Animex",
+        "internalName": "Animex",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Animex.cs3",
+        "description": "Animex eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Anizm",
+        "internalName": "Anizm",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Anizm.cs3",
+        "description": "Anizm eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "AsyaAnimeleri",
+        "internalName": "AsyaAnimeleri",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/AsyaAnimeleri.cs3",
+        "description": "AsyaAnimeleri eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "AsyaWatch",
+        "internalName": "AsyaWatch",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/AsyaWatch.cs3",
+        "description": "AsyaWatch eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "BelgeselX",
+        "internalName": "BelgeselX",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/BelgeselX.cs3",
+        "description": "BelgeselX eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CanliTV",
+        "internalName": "CanliTV",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/CanliTV.cs3",
+        "description": "CanliTV eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CanliTelevizyon",
+        "internalName": "CanliTelevizyon",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/CanliTelevizyon.cs3",
+        "description": "CanliTelevizyon eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CizgiMax",
+        "internalName": "CizgiMax",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/CizgiMax.cs3",
+        "description": "CizgiMax eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "CizgiveDizi",
+        "internalName": "CizgiveDizi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/CizgiveDizi.cs3",
+        "description": "CizgiveDizi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DMax",
+        "internalName": "DMax",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DMax.cs3",
+        "description": "DMax eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Ddizi",
+        "internalName": "Ddizi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Ddizi.cs3",
+        "description": "Ddizi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziBox",
+        "internalName": "DiziBox",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziBox.cs3",
+        "description": "DiziBox eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziFun",
+        "internalName": "DiziFun",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziFun.cs3",
+        "description": "DiziFun eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziGom",
+        "internalName": "DiziGom",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziGom.cs3",
+        "description": "DiziGom eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziKorea",
+        "internalName": "DiziKorea",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziKorea.cs3",
+        "description": "DiziKorea eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziMag",
+        "internalName": "DiziMag",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMag.cs3",
+        "description": "DiziMag eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziMom",
+        "internalName": "DiziMom",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMom.cs3",
+        "description": "DiziMom eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziMore",
+        "internalName": "DiziMore",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMore.cs3",
+        "description": "DiziMore eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziPal",
+        "internalName": "DiziPal",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziPal.cs3",
+        "description": "DiziPal eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziYo",
+        "internalName": "DiziYo",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziYo.cs3",
+        "description": "DiziYo eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DiziYou",
+        "internalName": "DiziYou",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziYou.cs3",
+        "description": "DiziYou eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Dizilla",
+        "internalName": "Dizilla",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Dizilla.cs3",
+        "description": "Dizilla eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Donghuastream",
+        "internalName": "Donghuastream",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Donghuastream.cs3",
+        "description": "Donghuastream eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "DragonTV",
+        "internalName": "DragonTV",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DragonTV.cs3",
+        "description": "DragonTV eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FilmBip",
+        "internalName": "FilmBip",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmBip.cs3",
+        "description": "FilmBip eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FilmKovasi",
+        "internalName": "FilmKovasi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmKovasi.cs3",
+        "description": "FilmKovasi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FilmMakinesi",
+        "internalName": "FilmMakinesi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmMakinesi.cs3",
+        "description": "FilmMakinesi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FilmModu",
+        "internalName": "FilmModu",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmModu.cs3",
+        "description": "FilmModu eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Filmİzlesene",
+        "internalName": "Filmİzlesene",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Filmİzlesene.cs3",
+        "description": "Filmİzlesene eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FullHDFilm",
+        "internalName": "FullHDFilm",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilm.cs3",
+        "description": "FullHDFilm eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FullHDFilmizlesene",
+        "internalName": "FullHDFilmizlesene",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
+        "description": "FullHDFilmizlesene eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FullHDFilmİzlede",
+        "internalName": "FullHDFilmİzlede",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmİzlede.cs3",
+        "description": "FullHDFilmİzlede eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "FullPorner",
+        "internalName": "FullPorner",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullPorner.cs3",
+        "description": "FullPorner eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "GinikoCanli",
+        "internalName": "GinikoCanli",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/GinikoCanli.cs3",
+        "description": "GinikoCanli eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "HDFilmCehennemi",
+        "internalName": "HDFilmCehennemi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmCehennemi.cs3",
+        "description": "HDFilmCehennemi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "HDFilmCehennemi2",
+        "internalName": "HDFilmCehennemi2",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmCehennemi2.cs3",
+        "description": "HDFilmCehennemi2 eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "HDFilmIzle",
+        "internalName": "HDFilmIzle",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmIzle.cs3",
+        "description": "HDFilmIzle eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "HDFilmSitesi",
+        "internalName": "HDFilmSitesi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmSitesi.cs3",
+        "description": "HDFilmSitesi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "HQPorner",
+        "internalName": "HQPorner",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HQPorner.cs3",
+        "description": "HQPorner eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "InatBox",
+        "internalName": "InatBox",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/InatBox.cs3",
+        "description": "InatBox eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "IpTvPlayStream",
+        "internalName": "IpTvPlayStream",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/IpTvPlayStream.cs3",
+        "description": "IpTvPlayStream eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "JetFilmizle",
+        "internalName": "JetFilmizle",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/JetFilmizle.cs3",
+        "description": "JetFilmizle eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "KoreanTurk",
+        "internalName": "KoreanTurk",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/KoreanTurk.cs3",
+        "description": "KoreanTurk eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "KultFilmler",
+        "internalName": "KultFilmler",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/KultFilmler.cs3",
+        "description": "KultFilmler eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "NetflixMirror",
+        "internalName": "NetflixMirror",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/NetflixMirror.cs3",
+        "description": "NetflixMirror eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "OxAx",
+        "internalName": "OxAx",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/OxAx.cs3",
+        "description": "OxAx eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "PornHub",
+        "internalName": "PornHub",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/PornHub.cs3",
+        "description": "PornHub eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "RareFilmm",
+        "internalName": "RareFilmm",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RareFilmm.cs3",
+        "description": "RareFilmm eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "RecTV",
+        "internalName": "RecTV",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
+        "description": "RecTV eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "RoketDizi",
+        "internalName": "RoketDizi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RoketDizi.cs3",
+        "description": "RoketDizi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SelcukFlix",
+        "internalName": "SelcukFlix",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SelcukFlix.cs3",
+        "description": "SelcukFlix eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SetFilmIzle",
+        "internalName": "SetFilmIzle",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SetFilmIzle.cs3",
+        "description": "SetFilmIzle eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SezonlukDizi",
+        "internalName": "SezonlukDizi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SezonlukDizi.cs3",
+        "description": "SezonlukDizi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SineWix",
+        "internalName": "SineWix",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SineWix.cs3",
+        "description": "SineWix eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Sinefy",
+        "internalName": "Sinefy",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Sinefy.cs3",
+        "description": "Sinefy eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SinemaCX",
+        "internalName": "SinemaCX",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SinemaCX.cs3",
+        "description": "SinemaCX eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SpankBang",
+        "internalName": "SpankBang",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SpankBang.cs3",
+        "description": "SpankBang eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "SuperFilmGeldi",
+        "internalName": "SuperFilmGeldi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SuperFilmGeldi.cs3",
+        "description": "SuperFilmGeldi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TLCtr",
+        "internalName": "TLCtr",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TLCtr.cs3",
+        "description": "TLCtr eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TRanimaci",
+        "internalName": "TRanimaci",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TRanimaci.cs3",
+        "description": "TRanimaci eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TRasyalog",
+        "internalName": "TRasyalog",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TRasyalog.cs3",
+        "description": "TRasyalog eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Tafdi",
+        "internalName": "Tafdi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Tafdi.cs3",
+        "description": "Tafdi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TrDiziIzle",
+        "internalName": "TrDiziIzle",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TrDiziIzle.cs3",
+        "description": "TrDiziIzle eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TurkAnime",
+        "internalName": "TurkAnime",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TurkAnime.cs3",
+        "description": "TurkAnime eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "TvDiziler",
+        "internalName": "TvDiziler",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TvDiziler.cs3",
+        "description": "TvDiziler eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "UgurFilm",
+        "internalName": "UgurFilm",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/UgurFilm.cs3",
+        "description": "UgurFilm eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "UncutMaza",
+        "internalName": "UncutMaza",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/UncutMaza.cs3",
+        "description": "UncutMaza eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Vavoo",
+        "internalName": "Vavoo",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Vavoo.cs3",
+        "description": "Vavoo eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "WFilmİzle",
+        "internalName": "WFilmİzle",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/WFilmİzle.cs3",
+        "description": "WFilmİzle eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Watch2Movies",
+        "internalName": "Watch2Movies",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Watch2Movies.cs3",
+        "description": "Watch2Movies eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "Watch32",
+        "internalName": "Watch32",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Watch32.cs3",
+        "description": "Watch32 eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "WebteIzle",
+        "internalName": "WebteIzle",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/WebteIzle.cs3",
+        "description": "WebteIzle eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "YTS",
+        "internalName": "YTS",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/YTS.cs3",
+        "description": "YTS eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "YabanciDizi",
+        "internalName": "YabanciDizi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/YabanciDizi.cs3",
+        "description": "YabanciDizi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "YouTube",
+        "internalName": "YouTube",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/YouTube.cs3",
+        "description": "YouTube eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "iptvSevenler",
+        "internalName": "iptvSevenler",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/iptvSevenler.cs3",
+        "description": "iptvSevenler eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "powerDizi",
+        "internalName": "powerDizi",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/powerDizi.cs3",
+        "description": "powerDizi eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "powerSinema",
+        "internalName": "powerSinema",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/powerSinema.cs3",
+        "description": "powerSinema eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "vavooSpor",
+        "internalName": "vavooSpor",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/vavooSpor.cs3",
+        "description": "vavooSpor eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    },
+    {
+        "name": "xHamster",
+        "internalName": "xHamster",
+        "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/xHamster.cs3",
+        "description": "xHamster eklentisi.",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon",
+            "Torrent",
+            "Live",
+            "Adult",
+            "NSFW",
+            "Documentary"
+        ],
+        "language": "tr"
+    }
+]
