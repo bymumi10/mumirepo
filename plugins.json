@@ -1,23 +1,23 @@
 [
     {
         "iconUrl": "https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png",
-            "apiVersion": 1,
-            "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-            "fileSize": 23015,
-            "status": 1,
-            "language": "tr",
-            "authors": [
-                "GitLatte",
-                "patr0nq"
-            ],
-            "tvTypes": [
-                "Live"
-            ],
-            "version": 3,
-            "internalName": "TO Grup Türkiye (VPN) - Latte",
-            "description": "TO Grubu spor kanallarını içerir: Vavoo.to, Huhu.to, Kool.to, Oha.to - VPN gerektirir",
-            "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TO Grup Türkiye (VPN) - Latte.cs3",
-            "name": "TO Grup Türkiye (VPN) - Latte",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 23015,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte",
+            "patr0nq"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 3,
+        "internalName": "TO Grup T\u00fcrkiye (VPN) - Latte",
+        "description": "TO Grubu spor kanallar\u0131n\u0131 i\u00e7erir: Vavoo.to, Huhu.to, Kool.to, Oha.to - VPN gerektirir",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/TO Grup T\u00fcrkiye (VPN) - Latte.cs3",
+        "name": "TO Grup T\u00fcrkiye (VPN) - Latte"
     },
     
     {
