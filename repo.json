@@ -1,9 +1,10 @@
 {
-  "name": "Turkish Providers Repository | @KekikAkademi",
-  "description": "Türkçe içerikli eklenti havuzu",
+  "name": "TugrulBey Repo",
+  "description": "Fenerbahçe",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/bymumi10/mumirepo/refs/heads/main/plugins.json"
   ]
 }
+
 
