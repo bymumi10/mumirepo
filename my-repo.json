@@ -3,7 +3,8 @@
     "description": "Farklı kaynaklardan derlenmiş kişisel CloudStream deposu.",
     "manifestVersion": 1,
     "pluginLists": [
-        "hhttps://raw.githubusercontent.com/bymumi10/mumirepo/refs/heads/main/plugins.json"
+        "https://raw.githubusercontent.com/bymumi10/mumirepo/refs/heads/main/plugins.json"
     ]
 }
+
 
